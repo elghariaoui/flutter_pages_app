@@ -43,11 +43,11 @@ OPENWEATHER_API_KEY=XXXXXXXXX
     <td align="center"><b>Menu Meteo</b></td>
   </tr>
 <tr>
-    <td><img src="assets/images/screenshots/capture_menu.png" height="200" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_counter.png" height="200" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_contacts.png" height="200" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_gallery.png" height="200" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_meteo.png" height="200" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_menu.png" height="300" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_counter.png" height="300" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_contacts.png" height="300" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_gallery.png" height="300" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_meteo.png" height="300" width="200" "/></td>
   
   
 </tr>
