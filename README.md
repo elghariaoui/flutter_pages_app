@@ -1,4 +1,4 @@
-# flutter_pages_app
+i# flutter_pages_app
 
 Application Flutter simple qui démarre une page principale HomePage qui présente un side menu Darwer qui permet d’accèder à d’autres pages:
 * Counter Page : Stateful Widget qui permet d’incrémenter et de décrémenter un compteur
@@ -37,21 +37,21 @@ OPENWEATHER_API_KEY=XXXXXXXXX
 
 <tr>
     <td align="center"><b>Menu Drawer</b></td>
-    <td align="center"><b>Menu Home</b></td>
+    
     <td align="center"><b>Menu Counter</b></td>
-    <td align="center"><b>Menu Chat</b></td>
+    
     <td align="center"><b>Menu Contacts</b></td>
     <td align="center"><b>Menu Gallery</b></td>
     <td align="center"><b>Menu Meteo</b></td>
   </tr>
 <tr>
-    <td><img src="assets/images/screenshots/capture_menu.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_home.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_counter.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_chat.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_contacts.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_gallery.png" width="200"/></td>
-    <td><img src="assets/images/screenshots/capture_meteo.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_menu.png" heigh="200" width="200"/></td>
+    
+    <td><img src="assets/images/screenshots/capture_counter.png" heigh="200" width="200"/></td>
+    
+    <td><img src="assets/images/screenshots/capture_contacts.png" heigh="200" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_gallery.png" heigh="200" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_meteo.png" heigh="200" width="200"/></td>
   
   
 </tr>
