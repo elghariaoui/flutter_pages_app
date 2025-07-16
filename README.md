@@ -45,13 +45,13 @@ OPENWEATHER_API_KEY=XXXXXXXXX
     <td align="center"><b>Menu Meteo</b></td>
   </tr>
 <tr>
-    <td><img src="asset/images/screenshots/capture_menu.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_home.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_counter.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_chat.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_contacts.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_gallery.png" width="200"/></td>
-    <td><img src="asset/images/screenshots/capture_meteo.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_menu.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_home.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_counter.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_chat.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_contacts.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_gallery.png" width="200"/></td>
+    <td><img src="assets/images/screenshots/capture_meteo.png" width="200"/></td>
   
   
 </tr>
