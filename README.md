@@ -1,4 +1,4 @@
-i# flutter_pages_app
+# flutter_pages_app
 
 Application Flutter simple qui démarre une page principale HomePage qui présente un side menu Darwer qui permet d’accèder à d’autres pages:
 * Counter Page : Stateful Widget qui permet d’incrémenter et de décrémenter un compteur
